@@ -1,0 +1,7 @@
+# Ignore compiled object files for C++
+*.o
+*.out
+*.exe
+
+# Ignore PDF files
+*.pdf
